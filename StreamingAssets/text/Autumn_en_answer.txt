@@ -1,0 +1,80 @@
+1: Rice ears
+1: Ginkgo
+1: Parent
+1: You
+2: A day to admire the beautiful moon and give thanks for the harvest
+2: A day to admire the beautiful night sky and express gratitude to parents
+2: A day to admire the rabbit
+2: "The moon is beautiful tonight, isn't it?"
+3: Because it is based on the phases of the moon and associated beliefs
+3: Because it is based on the phases of the moon and regional characteristics
+3: It’s actually the same, but some people snacked on them
+3: Because the important people in that area decide
+4: Sending letters or gifts from grandchildren
+4: Sending thousand origami cranes to nursing homes
+4: Expressing words of gratitude to working people
+4: Sending gifts to mothers
+5: Elderly Day
+5: Old People’s Day
+5: Respect for the Aged Day
+5: Confectionery Day
+6: To love freedom and peace, and promote culture
+6: To experience Japanese culture
+6: Because schools used to hold cultural festivals on this day
+6: A day to plan a collaborative battle event between Noh and Kabuki
+7: Emperor Meiji
+7: Gods
+7: Takeda Shingen
+7: Mother
+8: Free admission or special exhibitions
+8: Displaying works of art related to culture
+8: Offering discounts for couples
+8: Distributing free cup noodles
+9: Wishing for long-lasting health and growth
+9: Wishing for friendship and harmony with others
+9: Wishing for immortality
+9: Wishing to become invisible
+10: Red = protection from evil, White = purity and auspiciousness
+10: Wishing to win the sports festival
+10: Red = passion, White = kindness and inner beauty
+10: Red = vitality, White = peace, and the ability to live long
+11: The custom of enjoying autumn foliage spread among the aristocracy
+11: In the past, there was a custom of eating autumn leaves
+11: People mistook moving leaves for living creatures
+11: The leaves resembled a Tengu’s fan
+12: It is believed that all the gods gather in Izumo, and the local gods leave
+12: The origin of the term "Month of the Gods"
+12: It was the month when rumors spread that gods originally did not exist
+12: All the gods gather at Hinomisaki, power up, and return
+13: Kamiarizuki (Month of the Gods)
+13: October
+13: Kannazuki (Month without Gods)
+13: Kagurazuki (Month of Sacred Dance)
+14: Consulting about fate and matchmaking
+14: Consulting about misfortune and the death of people
+14: Consulting about good fortune and the parents of people
+14: Consulting about bonds and romantic relationships
+15: Difference in the depth of leaf notches
+15: Difference in leaf color
+15: Difference between broadleaf and needleleaf trees
+15: Difference between edible and inedible
+16: Vitamin C
+16: Iron
+16: Potassium
+16: Lycopene
+17: Because it contains nutrients that help warm the body
+17: Because it is rich in nutrients that enhance metabolism
+17: Because it contains components that promote blood flow
+17: Because it contains the same ingredients as hand warmers
+18: Partial moon
+18: Moon obsession
+18: Half-moon interest
+18: Infidelity
+19: Difference in leaf color
+19: Difference in the depth of leaf notches
+19: Difference between broadleaf and needleleaf trees
+19: Difference between edible and inedible
+20: Ginkgo
+20: Andromeda
+20: Mountain ash
+20: Dogwood
