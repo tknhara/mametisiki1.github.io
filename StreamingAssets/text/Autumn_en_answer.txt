@@ -8,14 +8,14 @@
 2: "The moon is beautiful tonight, isn't it?"
 3: Because it is based on the phases of the moon and associated beliefs
 3: Because it is based on the phases of the moon and regional characteristics
-3: It’s actually the same, but some people snacked on them
+3: It窶冱 actually the same, but some people snacked on them
 3: Because the important people in that area decide
 4: Sending letters or gifts from grandchildren
 4: Sending thousand origami cranes to nursing homes
 4: Expressing words of gratitude to working people
 4: Sending gifts to mothers
 5: Elderly Day
-5: Old People’s Day
+5: Old People窶冱 Day
 5: Respect for the Aged Day
 5: Confectionery Day
 6: To love freedom and peace, and promote culture
@@ -41,7 +41,7 @@
 11: The custom of enjoying autumn foliage spread among the aristocracy
 11: In the past, there was a custom of eating autumn leaves
 11: People mistook moving leaves for living creatures
-11: The leaves resembled a Tengu’s fan
+11: The leaves resembled a Tengu窶冱 fan
 12: It is believed that all the gods gather in Izumo, and the local gods leave
 12: The origin of the term "Month of the Gods"
 12: It was the month when rumors spread that gods originally did not exist
